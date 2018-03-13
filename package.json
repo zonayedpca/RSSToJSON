@@ -1,0 +1,15 @@
+{
+  "name": "mediumpost",
+  "version": "1.0.0",
+  "description": "Grab Your Medium Posts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zonayedpca",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "xmljson": "^0.2.0"
+  }
+}
